@@ -1,0 +1,1 @@
+This repository demonstrates a bug in Expo Go where using certain libraries requiring native modules results in a cryptic and unhelpful error message during app loading.  The bug.js file reproduces the problem. The bugSolution.js offers a workaround.  The solution involves using EAS Build for testing instead of Expo Go, providing a significantly improved debugging experience.
